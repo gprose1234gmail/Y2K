@@ -106,7 +106,7 @@ SPEEDTEST_COMMAND : ["speedtest"]
 ACTIVEVC_COMMAND : ["activevoice"]
 ACTIVEVIDEO_COMMAND : ["activevideo"]
 #REPLAY
-REPLAY_COMMAND : ["replay"]
+REPLAY_COMMAND : ["rplay"]
 
 #Gban Commands
 GBAN_COMMAND : ["gban"]
